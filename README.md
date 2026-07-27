@@ -186,7 +186,7 @@ A collection of benchmarks and datasets for evaluating LLM.
 * **Source:** [StructEval: A Benchmark for Evaluating Structured Output Generation](https://arxiv.org/abs/2604.08523)
 * **Resources:**
   * [StructEval GitHub](https://github.com/TIGER-AI-Lab/StructEval)
-  * [StructEval Project Page](https://struct-eval.github.io/)
+  * [StructEval Project Page](https://tiger-ai-lab.github.io/StructEval/)
 
 ## Multi Turn Open Ended Conversations
 
