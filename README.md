@@ -176,6 +176,18 @@ A collection of benchmarks and datasets for evaluating LLM.
 * **Resources:**
   * [BoolQ Dataset: HuggingFace](https://huggingface.co/datasets/boolq)
 
+## Structured Output and Multimodal Evaluation
+
+### StructEval
+
+* **Description:** A benchmark for evaluating LLM-generated structured outputs across 18 text and renderable formats, including tables, charts, diagrams, and web interfaces.
+* **Purpose:** To measure whether generated artifacts are syntactically valid, structurally faithful, and visually faithful to their intended specifications.
+* **Relevance:** Useful for assessing models that must produce executable or renderable structured artifacts rather than unconstrained prose.
+* **Source:** [StructEval: A Benchmark for Evaluating Structured Output Generation](https://arxiv.org/abs/2604.08523)
+* **Resources:**
+  * [StructEval GitHub](https://github.com/TIGER-AI-Lab/StructEval)
+  * [StructEval Project Page](https://struct-eval.github.io/)
+
 ## Multi Turn Open Ended Conversations
 
 ### MT-bench
